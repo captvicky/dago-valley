@@ -1,10 +1,10 @@
 {
+ "start_url": "index.htm",
  "background_color": "#014A4B",
  "display": "fullscreen",
  "description": "Kunjungi Virtual Tour Dago Valley langsung dari Genggaman anda. Nikmati kenyamanan hidup dengan fasilitas lengkap dan lingkungan yang asri",
- "start_url": "index.htm",
- "name": "Dago Valley Bandung Virtual Tour",
  "theme_color": "#014A4B",
+ "name": "Dago Valley Bandung Virtual Tour",
  "icons": [
   {
    "src": "misc/icon150.png",
